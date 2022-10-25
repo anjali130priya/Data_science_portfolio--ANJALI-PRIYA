@@ -20,3 +20,14 @@ This Portfolio is a compilation of all the Data Science and Data Analysis projec
 ## Core Competencies
 
 ## Certificates
+- [Introduction to Tableau](https://www.datacamp.com/statement-of-accomplishment/course/cf4c8c5de4086bd1e48080dbb48c8f53f619b385)
+- Intermediate R
+- Unsupervised Machine Learning with R
+  - [Cluster Analysis](https://www.datacamp.com/statement-of-accomplishment/course/cf4c8c5de4086bd1e48080dbb48c8f53f619b385)
+- Supervised Machine Learning with R
+  - [Introduction to Regression](https://www.datacamp.com/statement-of-accomplishment/course/17f44b71b8bff309f4a17bb2a4ea279420eea1df)
+- [Introduction to Data Visualization with ggplot2](https://www.datacamp.com/statement-of-accomplishment/course/5cb094676a633f6130ce6380aa0f4a5601593f68)
+- Market Basket Analysis
+- [Intermediate SQL](https://www.datacamp.com/statement-of-accomplishment/course/b10acc1746933739c17731b426ee816509bdfb5c)
+- [SQL Test by Hacker Rank](https://www.hackerrank.com/certificates/78f8588c9c00)
+
