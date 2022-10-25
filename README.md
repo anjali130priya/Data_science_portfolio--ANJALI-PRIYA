@@ -14,3 +14,9 @@ This Portfolio is a compilation of all the Data Science and Data Analysis projec
 
 
 ## Micro Projects
+
+
+
+## Core Competencies
+
+## Certificates
