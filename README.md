@@ -15,9 +15,16 @@ This Portfolio is a compilation of all the Data Science and Data Analysis projec
 
 ## Micro Projects
 
+<img align="left" width="250" height="150" src="https://github.com/archd3sai/Portfolio/blob/master/Images/telecom.jpg">
+|
+
 
 
 ## Core Competencies
+- **Languages:** R (Dplyr, Tidyr, Caret, Ggplot2 , Stringr) , SQL
+- **Tools & Libraries:**  MySQL, Tableau, Git, MS-Excel
+- **Expertise:**
+- **Soft Skills:** 
 
 ## Certificates
 - [Introduction to Tableau](https://www.datacamp.com/statement-of-accomplishment/course/cf4c8c5de4086bd1e48080dbb48c8f53f619b385)
