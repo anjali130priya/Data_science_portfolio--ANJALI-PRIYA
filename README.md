@@ -14,8 +14,9 @@ This Portfolio is a compilation of all the Data Science and Data Analysis projec
 
 
 ## Micro Projects
+Clustering Heart Disease Patient Data [Notebook]
 
-<img align="left" width="250" height="150" src="https://github.com/archd3sai/Portfolio/blob/master/Images/telecom.jpg">
+
 |
 
 
