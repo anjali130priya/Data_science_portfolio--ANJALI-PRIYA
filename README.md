@@ -40,5 +40,5 @@ This Portfolio is a compilation of all the Data Science and Data Analysis projec
 - Market Basket Analysis
 - [Intermediate SQL](https://www.datacamp.com/statement-of-accomplishment/course/b10acc1746933739c17731b426ee816509bdfb5c)
 - [SQL Test by Hacker Rank](https://www.hackerrank.com/certificates/78f8588c9c00)
-- IIT Roorkee-Certificate Program in Data Analytics 
+- IIT Roorkee-Certificate Program in Data Analytics *Ongoing*
 
