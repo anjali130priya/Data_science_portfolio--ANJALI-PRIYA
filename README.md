@@ -14,10 +14,12 @@ This Portfolio is a compilation of all the Data Science and Data Analysis projec
 
 
 ## Micro Projects
-Clustering Heart Disease Patient Data [Notebook]
+- Clustering Heart Disease Patient Data| K-Means & Hierarchical [Notebook]
+- Personalized System of Instruction (PSI)| Logistic Regression. [Notebook]
+- Regression Analysis on Heart Disease| Multiple Regression. [Notebook]
 
 
-|
+
 
 
 
