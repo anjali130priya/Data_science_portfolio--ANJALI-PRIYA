@@ -20,9 +20,9 @@ Objective of this project is to perform predictive assesment on the Age of Abalo
 
 
 ## Micro Projects
-- **Clustering Heart Disease Patient Data| K-Means & Hierarchical** *[Notebook]*
+- **Clustering Heart Disease Patient Data| K-Means & Hierarchical** *[[Notebook]](https://anjali130priya.github.io/Micro-Projects--DataScience-/Clustering/Clustering-hierarchial.html)*
 - **Personalized System of Instruction (PSI)| Logistic Regression**. *[[Notebook]](https://github.com/anjali130priya/Micro-Projects--DataScience-/blob/98e247b2a139f1d2b628a33a7b619b2bf80a2c9d/Logistic%20Regression/Personalized-System-of-Instruction--PSI----using---Classification.md)*
-- **Regression Analysis on Heart Disease| Multiple Regression**. *[Notebook]
+- **Regression Analysis on Heart Disease| Multiple Regression**. *[[Notebook]](https://anjali130priya.github.io/Micro-Projects--DataScience-/Multiple%20linear%20regression/Regression-Analysis-on-Heart-Disease.html)*
 
 
 
