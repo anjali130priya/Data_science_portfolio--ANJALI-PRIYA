@@ -3,7 +3,7 @@ This Portfolio is a compilation of all the Data Science and Data Analysis projec
  
 <sub>*Note: Data used in the projects (accessed under data directory) is for demonstration purposes only.*</sub>
 
-- Email-[anjalipriya130@gmail.com](https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox?compose=new)
+- Email-[anjalipriya130@gmail.com](mailto:anjalipriya130@gmail.com)
 - Linkedln-[www.linkedin.com/in/anjali-priya](www.linkedin.com/in/anjali-priya-1aa0aa174)
 ## Achievements
 - Research Scholar [Publication :](https://journalsacfa.apeejay.edu/index.php/descriptio/article/view/16) (Climate responsive Architecture Guided By Parametric Approach of Design)
@@ -32,8 +32,8 @@ Objective of this project is to perform predictive assesment on the Age of Abalo
 ## Core Competencies
 - **Languages:** R (Dplyr, Tidyr, Caret, Ggplot2 , Stringr) , SQL
 - **Tools & Libraries:**  MySQL, Tableau, Git, MS-Excel
-- **Expertise:**
-- **Soft Skills:** 
+- **Expertise:** Data Visualisation, Statistical Analysis, Good Communication, Presentation Skills, Problem Solving, Leadership
+
 
 ## Certificates
 - [Introduction to Tableau](https://www.datacamp.com/statement-of-accomplishment/course/cf4c8c5de4086bd1e48080dbb48c8f53f619b385)
