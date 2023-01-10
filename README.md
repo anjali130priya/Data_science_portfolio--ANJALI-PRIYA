@@ -52,5 +52,5 @@ Objective of this project is to perform predictive assessment on the Age of Abal
 - [Intermediate SQL](https://www.datacamp.com/statement-of-accomplishment/course/b10acc1746933739c17731b426ee816509bdfb5c)
 - [SQL (Basic) Hacker Rank](https://www.hackerrank.com/certificates/78f8588c9c00)
 - [SQL (Intermediate) Hacker Rank](https://www.hackerrank.com/certificates/ce7cae1ca187)
-- IIT Roorkee-Certificate Program in Data Analytics(https://drive.google.com/file/d/1362TkNzVyNJpMcFtyCrtYS3JTpJMGB29/view?usp=share_link)
+- [IIT Roorkee-Certificate Program in Data Analytics](https://drive.google.com/file/d/1362TkNzVyNJpMcFtyCrtYS3JTpJMGB29/view?usp=share_link)
 
