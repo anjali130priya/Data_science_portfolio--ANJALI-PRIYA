@@ -37,7 +37,7 @@ Objective of this project is to perform predictive assessment on the Age of Abal
     * **Data Visualisation:** Tableau ,  Matplotlib , Seaborn , GGplot
     * **Machine Learning Modelling:** Classification , Regression , Clustering , Time Series , Recommendation
     * **Data Mining:** Market Basket Analysis 
-- **Expertise:** Data Visualisation, Statistical Analysis, Good Communication, Presentation Skills, Problem Solving, Leadership
+- **Expertise:** Data Visualisation | Statistical Analysis | Good Communication | Presentation Skills |Problem Solving | Leadership
 
 
 ## Certificates
@@ -50,6 +50,7 @@ Objective of this project is to perform predictive assessment on the Age of Abal
 - [Introduction to Data Visualization with ggplot2](https://www.datacamp.com/statement-of-accomplishment/course/5cb094676a633f6130ce6380aa0f4a5601593f68)
 - Market Basket Analysis
 - [Intermediate SQL](https://www.datacamp.com/statement-of-accomplishment/course/b10acc1746933739c17731b426ee816509bdfb5c)
-- [SQL Test by Hacker Rank](https://www.hackerrank.com/certificates/78f8588c9c00)
-- IIT Roorkee-Certificate Program in Data Analytics (*Ongoing*)
+- [SQL (Basic) Hacker Rank](https://www.hackerrank.com/certificates/78f8588c9c00)
+- [SQL (Intermediate) Hacker Rank] (https://www.hackerrank.com/certificates/ce7cae1ca187)
+- IIT Roorkee-Certificate Program in Data Analytics (https://drive.google.com/file/d/1362TkNzVyNJpMcFtyCrtYS3JTpJMGB29/view?usp=share_link)
 
