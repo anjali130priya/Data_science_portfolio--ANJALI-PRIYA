@@ -39,7 +39,7 @@ Objective of this project is to perform predictive assessment on the Age of Abal
 ## Core Competencies
 - **Analytics Tools:**
     * **Data Collection and Storage:** SQL , MYSQL , Postgres. 
-    * **Data Processing and Analytics:** Python , Jupyter , R , Ms-Excel
+    * **Data Processing and Analytics:** Python (libraries- Numpy, Pandas , Geopandas) , Jupyter , R (libraries- tidyr , tidyverse , stringr) , Ms-Excel
     * **Data Visualisation:** Tableau ,  Matplotlib , Seaborn , Ggplot
     * **Machine Learning Modelling:** Classification , Regression , Clustering , Time Series , Recommendation
     * **Data Mining:** Market Basket Analysis 
