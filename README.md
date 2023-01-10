@@ -35,7 +35,7 @@ Objective of this project is to perform predictive assessment on the Age of Abal
 - **Analytics Tools:**
     * **Data Collection and Storage:** SQL , MYSQL , Postgres. 
     * **Data Processing and Analytics:** Python , Jupyter , R , Ms-Excel
-    * **Data Visualisation:** Tableau ,  Matplotlib , Seaborn , GGplot
+    * **Data Visualisation:** Tableau ,  Matplotlib , Seaborn , Ggplot
     * **Machine Learning Modelling:** Classification , Regression , Clustering , Time Series , Recommendation
     * **Data Mining:** Market Basket Analysis 
 - **Expertise:** Data Visualisation | Statistical Analysis | Good Communication | Presentation Skills |Problem Solving | Leadership
