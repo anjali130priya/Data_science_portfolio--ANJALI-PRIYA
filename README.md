@@ -5,7 +5,7 @@ This Portfolio is a compilation of all the Data Science and Data Analysis projec
 
 [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white&link=mailto:clebiomojunior@gmail.com)](mailto:anjalipriya130@gmail.com)
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](www.linkedin.com/in/anjali-priya-1aa0aa174)
-
+[!Datacamp Badge](https://ccweb.imgix.net/https%3A%2F%2Fwww.classcentral.com%2Fimages%2Flogos%2Fproviders%2Fdatacamp-hz.png?auto=format&ixlib=php-3.3.1&s=4b2d735af1991a06fcc63b5037a05cc8)
 ## Achievements
 - Research Scholar [Publication :](https://journalsacfa.apeejay.edu/index.php/descriptio/article/view/16) (Climate responsive Architecture Guided By Parametric Approach of Design)
 - Best Student of the Year Amiga Banerjee Award | Jadavpur University.
