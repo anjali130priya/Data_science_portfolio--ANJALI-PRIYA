@@ -16,7 +16,7 @@ This Portfolio is a compilation of all the Data Science and Data Analysis projec
 - Best Student of the Year Amiga Banerjee Award | Jadavpur University.
 
 ## Projects
-- <img  align="right" width="250" height="150" src="https://static.vecteezy.com/system/resources/previews/005/922/757/original/electric-car-future-power-in-the-illustration-with-electric-cars-and-charger-vector.jpg">**Market Analysis Electronic vehicles Indian [tableau link](https://public.tableau.com/views/EVMarketanalysis/D-PerformanceAnalysis?:language=en-US&:display_count=n&:origin=viz_share_link)** 
+- <img  align="right" width="250" height="150" src="https://static.vecteezy.com/system/resources/previews/005/922/757/original/electric-car-future-power-in-the-illustration-with-electric-cars-and-charger-vector.jpg">**[EVs Market Analysis India](EV Market Analysis/README.md) [tableau link](https://public.tableau.com/views/EVMarketanalysis/D-PerformanceAnalysis?:language=en-US&:display_count=n&:origin=viz_share_link)** 
 - <img align="left" width="250" height="150" src="https://user-images.githubusercontent.com/69565322/197915192-90a279d3-b3a7-4c6d-b537-70c29eae9a19.png">**[Predicting-age of abalone-using Multiple Linear Regression](https://anjali130priya.github.io/Predicting-age-of-abalone-using-Multiple-Linear-Regression/Predicting-age-of-abalone-using-Multiple-Linear-Regression.html)**
 Objective of this project is to perform predictive assessment on the Age of Abalone through an inferential analysis of various physical characters. Various models are compared and Stepwise Regression model is implemented .
 
